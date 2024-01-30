@@ -1,0 +1,23 @@
+img {
+  width: 300px;
+}
+th {
+  border: 5px solid black;
+  background-color: yellow;
+  border-style: none;
+}
+td {
+  border: 4px solid black;
+  background-color: yellow;
+  border-style: none;
+  padding: 20px;
+}
+
+h1 {
+  color: coral;
+}
+
+h2 {
+  border-style: double;
+  border-color: black;
+}
